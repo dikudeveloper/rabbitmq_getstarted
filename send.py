@@ -1,4 +1,5 @@
-# A Producer Application (Client) -- AMQP 0-9-1
+# A Producer Application (Client) -- AMQP 0-9-1 -
+# Sends messages to a Queue through an exchange
 
 import pika
 
